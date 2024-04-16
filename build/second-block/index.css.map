@@ -1,0 +1,1 @@
+{"version":3,"file":"second-block/index.css","mappings":";;;AAAA;EACC;AACD,C","sources":["webpack://multiple-blocks/./src/second-block/editor.scss"],"sourcesContent":[".wp-block-create-block-second-block {\n\tborder: 1px dashed rgb(0, 179, 255);\n}\n"],"names":[],"sourceRoot":""}

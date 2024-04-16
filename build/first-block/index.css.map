@@ -1,0 +1,1 @@
+{"version":3,"file":"first-block/index.css","mappings":";;;AAAA;EACC;AACD,C","sources":["webpack://multiple-blocks/./src/first-block/editor.scss"],"sourcesContent":[".wp-block-create-block-first-block {\n\tborder: 1px dotted #f00;\n}\n"],"names":[],"sourceRoot":""}
